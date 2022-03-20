@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/eimolina/dom-manipulation",
+  "homepage":"https://eimolina.github.io/dom-manipulation",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

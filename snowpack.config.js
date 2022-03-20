@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/eimolina/dom-manipulation',
+    baseUrl: 'https://eimolina.github.io/dom-manipulation',
   },
 }
