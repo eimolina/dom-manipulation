@@ -37,6 +37,7 @@ async function obtenerDatos() {
 
         const container = document.createElement('div');
         container.append(img, titulo, precio)
+        
 
         allItems.push(container);
     });
